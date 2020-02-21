@@ -1,4 +1,10 @@
 test-test
 
 
+<<<<<<< Updated upstream
 making changes 
+
+making changes to master
+=======
+making changes 
+>>>>>>> Stashed changes
