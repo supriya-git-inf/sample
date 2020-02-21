@@ -1,6 +1,7 @@
 test-test
 
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 making changes 
 
@@ -8,3 +9,6 @@ making changes to master
 =======
 making changes 
 >>>>>>> Stashed changes
+=======
+making changes 
+>>>>>>> f77d9f7... added changes to child
